@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testViewModel</string>
+    <string name="id">yeeun</string>
+    <string name="name">예츄</string>
+    <string name="follow">follow</string>
+    <string name="bFollow">FOLLOW</string>
+    <string name="bFollowing">FOLLOWING</string>
+</resources>
